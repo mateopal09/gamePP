@@ -1,0 +1,9 @@
+com\poli\englishtimetrialgame\inicio\InicioController.class
+com\poli\englishtimetrialgame\menu\MenuController.class
+com\poli\englishtimetrialgame\menu\records\RecordController.class
+Main.class
+com\poli\englishtimetrialgame\englishtimetrialgame\EnglishTimeTrial.class
+com\poli\englishtimetrialgame\juego\Question.class
+module-info.class
+com\poli\englishtimetrialgame\menu\instructions\InstructionsController.class
+com\poli\englishtimetrialgame\juego\JuegoController.class
